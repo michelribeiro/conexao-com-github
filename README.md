@@ -2,8 +2,9 @@
 ===================================================
 
 ## FERRAMANTES E SISTEMA OPERACIONAL
-WINDOWS
-SUBLIME TEXT
+
+* WINDOWS
+* SUBLIME TEXT
 -------------------------------------
 
 ### Vou partir do pré suposto que todos saibam usar a linha de comando.
