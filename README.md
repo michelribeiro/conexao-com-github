@@ -1,17 +1,16 @@
 ### SINCRONIZANDO O GIT LOCAL COM O GITHUB VIA PROMPT
 ===================================================
 
-## FERRAMANTES E SISTEMA OPERACIONAL
+#### FERRAMANTES E SISTEMA OPERACIONAL
 
-* WINDOWS
-* SUBLIME TEXT
----
+##### WINDOWS
+##### SUBLIME TEXT
+-
 
-### Vou partir do pré suposto que todos saibam usar a linha de comando.
+###### Vou partir do pré suposto que todos saibam usar a linha de comando.
 
 * DOWNLOAD DO GIT (http://git-scm.com/)
-* Atenção: 
-###### Fique atento na instalação pois ele irá perguntar se você vai querer que ele rode pelo prompt do windows, marque essa opção.
+* Atenção: Fique atento na instalação pois ele irá perguntar se você vai querer que ele rode pelo prompt do windows, marque essa opção.
 
 * Criar conta no Github (https://github.com/)
 * Na instalação do GIT vem o GIT BASH. Ele é parecido com o prompt do windows, você precisará criar a chave SSH por ele.
