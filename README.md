@@ -2,8 +2,8 @@
 ===================================================
 
 ## FERRAMANTES E SISTEMA OPERACIONAL
-p. strong. WINDOWS
-p. strong. SUBLIME TEXT
+- WINDOWS
+- SUBLIME TEXT
 -------------------------------------
 
 ### Vou partir do pré suposto que todos saibam usar a linha de comando.
@@ -37,15 +37,15 @@ p. Assim você insere a mesma na sua conta do github. Isso autoriza seu computad
 * Depois de criado ele já aparece na tela do repositório com algumas informações úteis. Copie e cole em um notepad, pois depois do nosso commit essas informações não vão aparecer mais.
 
 ## Em nosso computador
------------------------
+---
 
-###### Vamos definir uma pasta para nosso projeto. Criaremos um arquivo chamado README.md.
-###### Podemos abrir esse arquivo no notepad ou no editor de texto que preferir. Adicione no arquivo ### Meu arquivo de leitura para meu projeto
+- Vamos definir uma pasta para nosso projeto. Criaremos um arquivo chamado README.md.
+- Podemos abrir esse arquivo no notepad ou no editor de texto que preferir. Adicione no arquivo um texto qualquer.
 
 ## Usando o prompt do windows
 
 * Navegue até a pasta que esta nosso projeto pelo prompt (Ex: c:/user/pasta-do-projeto) e vamos fazer nosso commit seguindo os passos abaixo:
-#### Atentando em mudar as informações do seu GITHUB!!!
+#### Atentem em mudar as informações do seu GITHUB!!!
 
 * git init
 * git add README.md
