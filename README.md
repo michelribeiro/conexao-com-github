@@ -41,7 +41,7 @@
 * git remote add origin git@github.com:seu-usuario/seu-repositorio.git
 * git push -u origin master
 
-OBS: No primeiro commit ele vai perguntar se você tem certeza desse commit digitando yes/no. Digite yes e nos próximos commits não pedirá mais nada.
+OBS: No primeiro commit ele perguntará se você tem certeza desse commit digitando yes/no. Digite yes e nos próximos commits não pedirá mais nada.
 
 #### Feito! Bom galera, espero que tenha ajudado e caso tenham outra forma mais fácil ou melhor de proceder, por favor deixem comentários.
 #### Abs
