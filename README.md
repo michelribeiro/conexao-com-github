@@ -12,7 +12,8 @@
 * Criar conta no Github (https://github.com/)
 * Na instalação do GIT vem o GIT BASH. Ele é parecido com o prompt do windows, você precisará criar a chave SSH por ele.
 * Assim você insere a mesma na sua conta do github. Isso autoriza seu computador a enviar arquivor para seu repositório GITHUB online.
-* Inicie o GIT BASH e digite ( ssh-keygen -t rsa -C "seu-email@dominio.com" ). ATENÇÃO: Nesse momento ele vai pedir usuário e senha, eu não quero toda vez que fizer um envio para o github ter que ficar digitando login e senha, por isso nessa hora clique ENTER todas as vezes até ele finalizar a criação da sua KEYGEN.
+
+* Inicie o GIT BASH e digite ssh-keygen -t rsa -C "seu-email@dominio.com". ATENÇÃO: Nesse momento ele vai pedir usuário e senha, eu não quero toda vez que fizer um envio para o github ter que ficar digitando login e senha, por isso nessa hora clique ENTER todas as vezes até ele finalizar a criação da sua KEYGEN.
 =
 * A chave SSH fica criada no arquivo  C:\Users\nome-do-seu-usuario\.ssh\id_rsa.pub.
 * Peque o conteúdo desse arquivo e copie.
