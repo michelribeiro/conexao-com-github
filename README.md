@@ -42,6 +42,6 @@
 * git commit -m "Meu primeiro commit"
 * git remote add origin git@github.com:seu-usuario/seu-repositorio.git
 * git push -u origin master
--
+
 #### Feito! Bom galera espero que tenha ajudado a quem precisa e caso tenha outra forma mais  fácil ou melhor por favor deixem comentários.
 #### Abs
