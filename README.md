@@ -1,11 +1,11 @@
-# SINCRONIZANDO O GIT LOCAL COM O GITHUB VIA PROMPT
+### SINCRONIZANDO O GIT LOCAL COM O GITHUB VIA PROMPT
 ===================================================
 
 ## FERRAMANTES E SISTEMA OPERACIONAL
 
 * WINDOWS
 * SUBLIME TEXT
--------------------------------------
+---
 
 ### Vou partir do pré suposto que todos saibam usar a linha de comando.
 
