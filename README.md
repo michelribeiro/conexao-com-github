@@ -38,9 +38,8 @@
 
 ## Em nosso computador
 -
-
-- Vamos definir uma pasta para nosso projeto. Criaremos um arquivo chamado README.md.
-- Podemos abrir esse arquivo no notepad ou no editor de texto que preferir. Adicione no arquivo um texto qualquer.
+* Vamos definir uma pasta para nosso projeto. Criaremos um arquivo chamado README.md.
+* Podemos abrir esse arquivo no notepad ou no editor de texto que preferir. Adicione no arquivo um texto qualquer.
 
 ## Usando o prompt do windows
 
