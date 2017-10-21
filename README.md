@@ -25,7 +25,7 @@
 * Depois de criado ele já aparece na tela do repositório com algumas informações úteis. Copie e cole em um notepad, pois depois do nosso commit essas informações não aparecerão mais.
 
 #### Em nosso computador.
-
+git@github.com:michelribeiro/conexao-com-github.git
 * Vamos definir uma pasta para nosso projeto. Criaremos um arquivo chamado README.md.
 * Podemos abrir esse arquivo no notepad ou no editor de texto que preferir. Adicione no arquivo um texto qualquer.
 
@@ -42,6 +42,3 @@
 * git push -u origin master
 
 OBS: No primeiro commit ele perguntará yes/no. Digite yes e nos próximos commits não pedirá mais nada.
-
-#### Feito! Bom galera, espero que tenha ajudado e caso tenham outra forma mais fácil ou melhor de proceder, por favor deixem comentários.
-#### Abs
